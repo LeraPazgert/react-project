@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,400;1,500;1,600;1,900&family=Roboto:ital,wght@0,100;1,100&display=swap');
+
+.App{
+    background-color: rgb(229, 239, 245);
+    font-family: 'Playfair Display', serif;
+    font-size: 23px;
+    font-weight: 500;
+}
+
